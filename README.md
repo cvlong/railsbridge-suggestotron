@@ -1,9 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+RailsBridge intro curriculum: covers making a Rails app, including commands like rails generate scaffold, and then deploying that app to the Internet.
 
-Things you may want to cover:
+Add documentation regarding:
 
 * Ruby version
 
@@ -20,5 +19,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
