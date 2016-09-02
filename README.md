@@ -2,6 +2,8 @@
 
 RailsBridge intro curriculum: covers making a Rails app, including commands like rails generate scaffold, and then deploying that app to the Internet.
 
+See http://docs.railsbridge.org/docs/
+
 Add documentation regarding:
 
 * Ruby version
